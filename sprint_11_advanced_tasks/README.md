@@ -6,7 +6,7 @@ Please, implement the Filter method that takes IEnumerable<Student> parameter.
 * Student class is already implemented:
 
 
-![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_08/image.png)
+![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_11_advanced_tasks/image%20(2).png)
 
 
 * The Filter method should select students that have rating more than 75 and study Math or English
