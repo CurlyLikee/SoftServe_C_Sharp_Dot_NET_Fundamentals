@@ -2,10 +2,13 @@
 
 ## Task 1
 Prepare the file "phones.txt" with records as follows:
-![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_05_advanced_tasks/image%20(1).png)
+
+![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_08/image.png)
 
 Prepare the file "names.txt" with records as follows:
-![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_05_advanced_tasks/image%20(1).png)
+
+![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_08/image%20(1).png)
+
 
 Within FilesBehavior class define Main() method.
 
@@ -133,7 +136,7 @@ string[] newPhones = File.ReadAllLines("onlyPhones.txt");
 - **Got:**
 
 80123456789
-
+  
 80987654321
 
 80234567890
