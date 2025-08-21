@@ -17,7 +17,7 @@ The number is prime if its only dividers are 1 and this number itself.
 Please, implement CreateCommonList method.
 It takes Queue of strings as a first parameter and Stack of strings as a second. 
 The method should return a List of strings that consists of elements from both collections that do not belong to both collections simultaneously:
-![Screenshot](https://github.com/CurlyLikee/UI-Playground/blob/main/screenshot.png)
+![Screenshot](https://github.com/CurlyLikee/SoftServe_C_Sharp_Dot_NET_Fundamentals/blob/main/sprint_05_advanced_tasks/image%20(1).png)
 
 ### Tests
 **Test 1**
